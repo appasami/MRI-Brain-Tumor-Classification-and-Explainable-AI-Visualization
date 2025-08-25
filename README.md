@@ -6,6 +6,9 @@ MRI Brain Tumor XAI MRI-Brain-Tumor-XAI is a deep learning-based project designe
 
 **Files**
 mri-batch-opt-classify-visualize-all-adamw-3.ipynb
+
 mri-xai-kernel-feature-map-visualize.ipynb
+
 mri-xai-pca-t-sne-umap-lda.ipynb
+
 xai-mri-mean-sd.ipynb
