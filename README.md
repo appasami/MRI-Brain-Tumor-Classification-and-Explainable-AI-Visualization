@@ -19,4 +19,4 @@ https://github.com/appasami/MRI-Brain-Tumor-Classification-and-Explainable-AI-Vi
 
 
 appasami/MRI-Brain-Tumor-Classification-and-Explainable-AI-Visualization 
-DOI: 10.5281/zenodo.16939093
+DOI: 10.5281/zenodo.16939093 (https://zenodo.org/records/16939093)
