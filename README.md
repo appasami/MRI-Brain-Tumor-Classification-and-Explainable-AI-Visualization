@@ -13,3 +13,10 @@ mri-xai-kernel-feature-map-visualize.ipynb
 mri-xai-pca-t-sne-umap-lda.ipynb
 
 xai-mri-mean-sd.ipynb
+
+
+https://github.com/appasami/MRI-Brain-Tumor-Classification-and-Explainable-AI-Visualization
+
+
+appasami/MRI-Brain-Tumor-Classification-and-Explainable-AI-Visualization 
+DOI: 10.5281/zenodo.16939093
