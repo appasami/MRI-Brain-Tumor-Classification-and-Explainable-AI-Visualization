@@ -15,7 +15,7 @@ mri-xai-pca-t-sne-umap-lda.ipynb
 xai-mri-mean-sd.ipynb
 
 
-Github code link: 
+**Github code link: **
 
 https://github.com/appasami/MRI-Brain-Tumor-Classification-and-Explainable-AI-Visualization
 
@@ -23,6 +23,6 @@ https://github.com/appasami/MRI-Brain-Tumor-Classification-and-Explainable-AI-Vi
 appasami/MRI-Brain-Tumor-Classification-and-Explainable-AI-Visualization 
 
 
-Reference (APA style example):
+**Reference **(APA style example):
 
 Appasami, G., & Savarimuthu, N. (2025). MRI Brain Tumor Classification and Explainable AI Visualization (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.16939093
